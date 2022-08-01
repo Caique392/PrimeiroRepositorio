@@ -214,11 +214,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Curso\\PrimeiraAPISolo\\PrimeiraAPISolo\\PrimeiraAPISolo.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Repositorio\\PrimeiroRepositorio\\PrimeiraAPISolo\\PrimeiraAPISolo\\PrimeiraAPISolo.csproj",
       "projectName": "PrimeiraAPISolo",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\Curso\\PrimeiraAPISolo\\PrimeiraAPISolo\\PrimeiraAPISolo.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\Repositorio\\PrimeiroRepositorio\\PrimeiraAPISolo\\PrimeiraAPISolo\\PrimeiraAPISolo.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\Curso\\PrimeiraAPISolo\\PrimeiraAPISolo\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\Repositorio\\PrimeiroRepositorio\\PrimeiraAPISolo\\PrimeiraAPISolo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
